@@ -2,3 +2,5 @@
 
 i love mysore
 welcome
+
+merge conflict
